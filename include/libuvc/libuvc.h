@@ -75,6 +75,7 @@ enum uvc_frame_format {
   UVC_FRAME_FORMAT_H264,
   /** Greyscale images */
   UVC_FRAME_FORMAT_GRAY8,
+  UVC_FRAME_FORMAT_GRAY12,
   UVC_FRAME_FORMAT_GRAY16,
   /* Raw colour mosaic images */
   UVC_FRAME_FORMAT_BY8,

@@ -193,7 +193,6 @@ install(EXPORT libuvcTargets
 
 install(FILES 
     cmake/FindLibUSB.cmake
-    cmake/FindJpegPkg.cmake
   DESTINATION ${CMAKE_INSTALL_CMAKEDIR}
 )
 
